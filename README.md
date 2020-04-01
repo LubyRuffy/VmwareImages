@@ -11,6 +11,7 @@ Collect vmware images for download
 - https://my.vmware.com/web/vmware/downloads
 - http://www.trendsigma.net/vmware/
 - https://www.linuxvmimages.com/
+- https://bitnami.com/stacks/virtual-machine
 
 ## Misc
 - ucs: https://www.univention.com/downloads/download-ucs/
