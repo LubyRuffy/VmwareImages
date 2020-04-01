@@ -23,3 +23,4 @@ Collect vmware images for download
 - https://cloudreadykb.neverware.com/s/article/Download-CloudReady-Image-For-VMware
 - https://www.redmondpie.com/download-chrome-os-vmware-image-9140126/
 - http://gtgester.no-ip.org/descargas/ISO/
+- http://www.csd.uwo.ca/~lreid/cs2212/VirtualMachines/
