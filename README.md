@@ -17,3 +17,6 @@ Collect vmware images for download
 - ucs: https://www.univention.com/downloads/download-ucs/
 - https://techsviewer.com/download-ubuntu-virtual-machine-image-for-virtualbox-and-vmware/
 - https://www.geekrar.com/download-macos-sierra-vmware-virtualbox-image/
+- https://blog.vyos.io/vyos-1-dot-1-7-ova-image-for-vmware
+- https://cloudreadykb.neverware.com/s/article/Download-CloudReady-Image-For-VMware
+- https://www.redmondpie.com/download-chrome-os-vmware-image-9140126/
