@@ -12,6 +12,8 @@ Collect vmware images for download
 - http://www.trendsigma.net/vmware/
 - https://www.linuxvmimages.com/
 - https://bitnami.com/stacks/virtual-machine
+- http://ftp.lip6.fr/turnkeylinux/images/ova/
+- http://templates.repo.onapp.com/ova/
 
 ## Misc
 - ucs: https://www.univention.com/downloads/download-ucs/
