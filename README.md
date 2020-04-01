@@ -25,3 +25,4 @@ Collect vmware images for download
 - http://gtgester.no-ip.org/descargas/ISO/
 - http://www.csd.uwo.ca/~lreid/cs2212/VirtualMachines/
 - http://www.sce.carleton.ca/courses/sysc-5104/materials/private/Windows%20XP%20VM%20image/
+- https://isc.tsu.ru/virtual/
