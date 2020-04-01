@@ -15,3 +15,4 @@ Collect vmware images for download
 
 ## Misc
 - ucs: https://www.univention.com/downloads/download-ucs/
+- https://techsviewer.com/download-ubuntu-virtual-machine-image-for-virtualbox-and-vmware/
