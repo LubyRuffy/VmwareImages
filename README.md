@@ -22,3 +22,4 @@ Collect vmware images for download
 - https://blog.vyos.io/vyos-1-dot-1-7-ova-image-for-vmware
 - https://cloudreadykb.neverware.com/s/article/Download-CloudReady-Image-For-VMware
 - https://www.redmondpie.com/download-chrome-os-vmware-image-9140126/
+- http://gtgester.no-ip.org/descargas/ISO/
