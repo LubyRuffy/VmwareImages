@@ -24,3 +24,4 @@ Collect vmware images for download
 - https://www.redmondpie.com/download-chrome-os-vmware-image-9140126/
 - http://gtgester.no-ip.org/descargas/ISO/
 - http://www.csd.uwo.ca/~lreid/cs2212/VirtualMachines/
+- http://www.sce.carleton.ca/courses/sysc-5104/materials/private/Windows%20XP%20VM%20image/
