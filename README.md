@@ -10,3 +10,4 @@ Collect vmware images for download
 - https://www.osboxes.org/vmware-images/
 - https://my.vmware.com/web/vmware/downloads
 - http://www.trendsigma.net/vmware/
+- https://www.linuxvmimages.com/
